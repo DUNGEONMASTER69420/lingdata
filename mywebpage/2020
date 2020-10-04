@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>Private page of Nikita Lazarenko</title>
+	 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta charset="utf-8">
+		<meta name="description" content="Private info and contacts">
+		<!-- Bootstrap Core CSS -->
+    	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" media="screen">
+	</head>
+	<body>
+		<nav id="mainNav" class="navbar navbar-default navbar-fixed-top navbar-custom">
+			<div class="container">
+				<div class="navbar-header">
+					<a href="https://ling.hse.ru/" class="navbar-brand">School of Linguistics HSE</a>
+				</div>
+				<nav class="collapse navbar-collapse" id="bs-navbar">
+					<ul class="nav navbar-nav navbar-right">
+						<li> <a href="https://lingvocodes.github.io/HSEinfo/ba-ling-2018/index.html">Course page</a> </li>
+						<li> <a href="https://lingvocodes.github.io/HSEinfo/ba-ling-2018/baling_2018_1.html">Group page</a> </li>
+					</ul>
+				</nav>
+			</div>
+		</nav>
+		<header style="background-color:#3CB371; padding-top:70px; ">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4">
+						<br/><br/>
+						<h1>Nikita Lazarenko</h1>
+						<hr>
+						<p><i>Peace, was never <b>an option</i> </b></p>
+	                </div>
+					<div class="col-md-4">
+        	            <img src="https://sun9-73.userapi.com/c847019/v847019681/1cdd02/BnqGh0KAB34.jpg" title="Я_таджик.jpg" alt="" style="height:320px; margin:20px 20px 40px 20px; " >
+					</div>
+	            </div>
+			</div>
+		</header>
+		<section id="portfolio">
+			<div class="container">
+				<div class="col-md-3">
+					<article>
+						<h3>Styding place</h2>
+						<p>Fundamental and Computer Linguistics, HSE, Moscow</p>
+					</article>
+					<article>
+						<h3>City</h2>
+						<p>Moscow oblast</p>
+					</article>
+					<article>
+						<h3>School</h2>
+						<p>Liceum 23</p>
+					</article>
+				</div>
+				<div class="col-md-6">
+					<article>
+						<h3>My top 10 favourite music bands and singers</h2>
+						<p>10) Molchat Doma <br />
+							9)Little Big <br />
+							8)Redbone <br />
+							7)Ayasa <br />
+							6)Leningrad <br />
+							5)Mak$im <br />
+							4)OP 6 from Naruto))) <br />
+							3)Pasha Technik <br />
+							2)Die Antwoord <br />
+							1)RAM <br />
+					 </p>
+					</article>
+				</div>
+				<div class="col-md-3">
+					<h3>Me in social Media</h3>
+					<ul>
+						<li> <a href="https://vk.com/podolsk_vanlav">VK</a> </li>
+						<li>Telegram - @ChelovekAmfibiya</li>
+					</ul>
+				</div>
+			</div>
+		</section>
+		<footer class="bs-docs-footer">
+			<div class="container">
+				<p style="text-align:right; ">&copy; N. Lazarenko, 2020</p>
+			</div>
+		</footer>
+	</body>
+</html>
